@@ -10,9 +10,8 @@ int isPrime(int num) {
     return 1;
 }
 
-int absVal(int num) {
-    return num;
-
+int absVal(int num1) {
+    return num1;
 }
 
 int main() {
