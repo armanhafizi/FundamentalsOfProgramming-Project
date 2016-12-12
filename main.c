@@ -11,6 +11,7 @@ int isPrime(int num) {
 }
 
 int absVal(int num) {
+    return num;
 
 }
 
