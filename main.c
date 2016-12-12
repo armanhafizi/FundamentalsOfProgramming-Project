@@ -10,7 +10,7 @@ int isPrime(int num) {
     return 1;
 }
 
-int absVal(int num) {
+int absVal(int num1) {
 
 }
 
